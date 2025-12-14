@@ -7,7 +7,6 @@ This is a Tribute Page
 
 * `style.css` : Provides styling and layout.
 
-* `script.js` : Implements the logic and handles user interactions.
 
 ## How to Run
 
@@ -21,4 +20,3 @@ Open the index.html file in any modern web browser.
 
 * CSS
 
-* JavaScript
